@@ -3,7 +3,7 @@
 ### Português
 ##
 
-# Olá, eu sou o Sammy<img src="https://github.com/SammyKunimatsu/SammyKunimatsu/raw/master/Assets/png/miku_icon.png" width="50">
+# Olá, eu sou o Sammy <img src="https://github.com/SammyKunimatsu/SammyKunimatsu/raw/master/Assets/png/miku_icon.png" width="50">
 </img>
 
 ### *Sobre mim*:
@@ -19,7 +19,7 @@
 ### English
 ##
 
-# Hi, I'm Sammy<img src="https://github.com/SammyKunimatsu/SammyKunimatsu/raw/master/Assets/png/miku_icon.png" width="50">
+# Hi, I'm Sammy <img src="https://github.com/SammyKunimatsu/SammyKunimatsu/raw/master/Assets/png/miku_icon.png" width="50">
 </img>
 
 ### *About me*:
